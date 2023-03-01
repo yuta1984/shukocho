@@ -11,7 +11,7 @@ import {
 import collection from '../collection.json';
 type Props = {};
 
-const Home: React.FC<Props> = ({}) => {
+const Home: React.FC<Props> = () => {
   console.log('hoge');
   return (
     <>
