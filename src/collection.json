@@ -1,0 +1,245 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Collection",
+  "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/collection.json",
+  "label": "［聆涛閣集古帖］",
+  "attribution": "国立歴史民俗博物館 National Museum of Japanese History",
+  "description": "聆涛閣集古帖のコレクションです．",
+  "manifests": [
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-1.json",
+      "label": "［聆涛閣集古帖］ 天地"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-10.json",
+      "label": "［聆涛閣集古帖］ 書3"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-11.json",
+      "label": "［聆涛閣集古帖］ 書4"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-12.json",
+      "label": "［聆涛閣集古帖］ 碑銘1"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-13.json",
+      "label": "［聆涛閣集古帖］ 碑銘2"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-14.json",
+      "label": "［聆涛閣集古帖］ 墓誌"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-15.json",
+      "label": "［聆涛閣集古帖］ 鐘銘"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-16.json",
+      "label": "［聆涛閣集古帖］ 雑銘1"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-17.json",
+      "label": "［聆涛閣集古帖］ 雑銘2"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-18.json",
+      "label": "［聆涛閣集古帖］ 甲冑軍営"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-19.json",
+      "label": "［聆涛閣集古帖］ 弓矢"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-2.json",
+      "label": "［聆涛閣集古帖］ 尺量"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-20.json",
+      "label": "［聆涛閣集古帖］ 刀剣1"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-21.json",
+      "label": "［聆涛閣集古帖］ 刀剣2"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-22.json",
+      "label": "［聆涛閣集古帖］ 鋒"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-23.json",
+      "label": "［聆涛閣集古帖］ 馬具"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-24.json",
+      "label": "［聆涛閣集古帖］ 楽器"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-25.json",
+      "label": "［聆涛閣集古帖］ 印章1"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-26.json",
+      "label": "［聆涛閣集古帖］ 印章2"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-27.json",
+      "label": "［聆涛閣集古帖］ 印章3"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-28.json",
+      "label": "［聆涛閣集古帖］ 印章4"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-29.json",
+      "label": "［聆涛閣集古帖］ 印章5"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-3.json",
+      "label": "［聆涛閣集古帖］ 升量"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-30.json",
+      "label": "［聆涛閣集古帖］ 鏡"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-31.json",
+      "label": "［聆涛閣集古帖］ 織紋"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-32.json",
+      "label": "［聆涛閣集古帖］ 乗輿1"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-33.json",
+      "label": "［聆涛閣集古帖］ 乗輿2"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-34.json",
+      "label": "［聆涛閣集古帖］ 玉"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-35.json",
+      "label": "［聆涛閣集古帖］ 食器"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-36.json",
+      "label": "［聆涛閣集古帖］ 食品"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-37.json",
+      "label": "［聆涛閣集古帖］ 葬具"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-38.json",
+      "label": "［聆涛閣集古帖］ 調度1"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-39.json",
+      "label": "［聆涛閣集古帖］ 調度2"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-4.json",
+      "label": "［聆涛閣集古帖］ 篇額1"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-40.json",
+      "label": "［聆涛閣集古帖］ 嚢匣"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-41.json",
+      "label": "［聆涛閣集古帖］ 瓦1"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-42.json",
+      "label": "［聆涛閣集古帖］ 瓦2"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-43.json",
+      "label": "［聆涛閣集古帖］ 鈴鐸"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-44.json",
+      "label": "［聆涛閣集古帖］ 戯器"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-45.json",
+      "label": "［聆涛閣集古帖］ 仏具"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-46.json",
+      "label": "［聆涛閣集古帖］ 雑"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-47.json",
+      "label": "［聆涛閣集古帖］（一枚物）"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-5.json",
+      "label": "［聆涛閣集古帖］ 扁額2"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-6.json",
+      "label": "［聆涛閣集古帖］ 文房"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-7.json",
+      "label": "［聆涛閣集古帖］ 肖像"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-8.json",
+      "label": "［聆涛閣集古帖］ 書1"
+    },
+    {
+      "@type": "sc:Manifest",
+      "@id": "https://khirin-i.rekihaku.ac.jp/manifests/shukocho/H-1660-9.json",
+      "label": "［聆涛閣集古帖］ 書2"
+    }
+  ]
+}
