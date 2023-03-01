@@ -1,4 +1,3 @@
-import { Home } from '@mui/icons-material';
 import {
   AppBar,
   Toolbar,
@@ -133,7 +132,6 @@ export default function App() {
             color='secondary'
             href='/'
           >
-            <Home></Home>
             トップに戻る
           </Button>
         </Toolbar>
