@@ -12,7 +12,13 @@ import collection from '../collection.json';
 type Props = {};
 
 const Home: React.FC<Props> = () => {
-  console.log('hoge');
+  const manifests = collection.manifests.sort((a, b) => {
+    const regex = /H\-\d+\-(\d+)/;
+    const match1 = regex.exec(a['@id']);
+    const match2 = regex.exec(b['@id']);
+    if (!match1 || !match2) return 0;
+    return parseInt(match1[1]) - parseInt(match2[1]);
+  });
   return (
     <>
       <AppBar position='fixed'>
@@ -29,7 +35,7 @@ const Home: React.FC<Props> = () => {
           margin: '84px 20px 0',
         }}
       >
-        {collection.manifests.map((m) => {
+        {manifests.map((m) => {
           const id = m['@id']
             .split('/')
             .pop()!
