@@ -13,6 +13,7 @@ import React, {
   useRef,
   useLayoutEffect,
   ReactNode,
+  useEffect,
 } from 'react';
 //import "universalviewer";
 import { Viewer } from 'universalviewer';
@@ -119,6 +120,13 @@ export default function App() {
   console.log(m);
   const label = m!.label;
   const manifest = m!['@id'];
+
+  useEffect(() => {
+    setTimeout(() => {
+      console.log('back to top');
+      window.location.replace('/');
+    }, 1000 * 60 * 5);
+  }, []);
 
   return (
     <UVProvider>
